@@ -1,6 +1,3 @@
-# CampusGPT
-CampusGPT is a multilingual AI-powered RAG chatbot that helps students access college and university information through natural-language queries. It uses semantic search, vector embeddings, ChromaDB, and Google Gemini to provide document-grounded answers in multiple languages.
-
 # CampusGPT – Multilingual RAG Chatbot
 
 CampusGPT is an AI-powered multilingual chatbot designed to simplify access to college and university information. Built using Retrieval-Augmented Generation (RAG), it retrieves relevant information from institutional documents, such as admission rule books, eligibility guidelines, and fee structures, and generates context-aware responses to students' queries.
